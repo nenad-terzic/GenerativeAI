@@ -1,0 +1,3 @@
+#download the lab
+aws s3 cp --recursive s3://dlai-generative-ai/labs/w1-549876/ ./
+
